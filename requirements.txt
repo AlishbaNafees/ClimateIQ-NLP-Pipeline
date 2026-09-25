@@ -1,0 +1,21 @@
+# Install all dependencies:
+#   pip install -r requirements.txt
+# Requires Python 3.8+
+ 
+# Data Handling
+pandas==2.2.2
+ 
+# Layer 1 - Text Cleaning
+nltk==3.8.1               
+ 
+# Layer 2 - Sentiment Scoring
+textblob==0.18.0          
+vaderSentiment==3.3.2     
+ 
+# Layer 3 - Rule Based Classification
+# No extra libraries needed
+ 
+# Progress Bar
+tqdm==4.66.4              
+ 
+# Built-in (no installation needed): pathlib, logging, re, string
