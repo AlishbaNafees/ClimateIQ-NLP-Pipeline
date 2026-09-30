@@ -1,4 +1,4 @@
-# ClimateIQ Hybrid Pipeline
+# ClimateIQ NLP Pipeline
 
 A three-layer pipeline that cleans, scores and classifies 2.5 million climate-related tweets from 47 cities. This is the NLP layer behind the ClimateIQ_v5 desktop app. That app reads whatever this pipeline produces.
 
